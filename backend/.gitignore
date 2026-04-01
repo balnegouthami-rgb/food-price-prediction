@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# ML Models (optional but recommended to ignore)
+backend/models/*.pkl
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# React build
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
